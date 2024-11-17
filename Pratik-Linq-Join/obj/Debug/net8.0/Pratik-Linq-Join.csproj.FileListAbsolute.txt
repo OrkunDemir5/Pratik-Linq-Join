@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\bin\Debug\net8.0\Pratik-Linq-Join.exe
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\bin\Debug\net8.0\Pratik-Linq-Join.deps.json
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\bin\Debug\net8.0\Pratik-Linq-Join.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\bin\Debug\net8.0\Pratik-Linq-Join.dll
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\bin\Debug\net8.0\Pratik-Linq-Join.pdb
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\obj\Debug\net8.0\Pratik-Linq-Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\obj\Debug\net8.0\Pratik-Linq-Join.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\obj\Debug\net8.0\Pratik-Linq-Join.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\obj\Debug\net8.0\Pratik-Linq-Join.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\obj\Debug\net8.0\Pratik-Linq-Join.dll
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\obj\Debug\net8.0\refint\Pratik-Linq-Join.dll
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\obj\Debug\net8.0\Pratik-Linq-Join.pdb
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\obj\Debug\net8.0\Pratik-Linq-Join.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-Linq-Join\obj\Debug\net8.0\ref\Pratik-Linq-Join.dll
